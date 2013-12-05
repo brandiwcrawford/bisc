@@ -1,5 +1,7 @@
 #!/usr/bin/ruby -I/msf3/lib -Ilib
 
+# Brandi Crawford
+
 require 'bisc'
 
 #
