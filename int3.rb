@@ -1,6 +1,7 @@
-#!/usr/bin/ruby -I/msf3/lib -Ilib
-
 # Brandi Crawford
+# Fun Times with BISC
+
+#!/usr/bin/ruby -I/msf3/lib -Ilib
 
 require 'bisc'
 
